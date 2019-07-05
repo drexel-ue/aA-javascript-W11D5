@@ -1,1 +1,12 @@
 /* PHASE 7: Online */
+.online { 
+    position: absolute;
+    top:30px;
+    left:-10px;
+    padding: 10px 70px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    transform: translate(-55px, -15px) rotate(-45deg);
+    border: bottom black;
+}
